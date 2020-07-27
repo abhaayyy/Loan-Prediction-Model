@@ -1,7 +1,7 @@
 # Loan-Prediction-Model
 
 ## Overview:
-Giving the loan to a costumer is not one step process. Company have to do analysis on many confidential data provided by the customer. So to automate the loan eligibility process (real time) based on customer detail provide while filling online application form (in the above data set we have collected all the necessary details.) 
+Giving the loan to a costumer is not one step process. Company have to do analysis on many confidential data provided by the customer. So to automate the loan eligibility process (real time) based on customer details provided while filling online application form (in the above data set we have collected all the necessary details.) 
 
 We have to automate this process by identifying the customer segments and those who are eligible for loan amount so that they can specifically target these customers.
 
