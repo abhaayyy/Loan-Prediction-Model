@@ -1,5 +1,4 @@
 # Loan-Prediction-Model
-This model will help to automate the loan eligibility process based on customer detail provided
 
 ## Overview:
 Giving the loan to a costumer is not one step process. Company have to do analysis on many confidential data provided by the customer. So to automate the loan eligibility process (real time) based on customer detail provide while filling online application form (in the above data set we have collected all the necessary details.) 
